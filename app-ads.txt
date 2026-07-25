@@ -1,1 +1,5 @@
+# app-ads.txt for TrueCal Notifier
+# Google Play package: com.aferende.truecalnotifier
+#
+# Advertising system domain, publisher ID, relationship, certification authority ID
 google.com, pub-5904809648481297, DIRECT, f08c47fec0942fa0
